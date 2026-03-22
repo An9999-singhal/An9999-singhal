@@ -1,8 +1,41 @@
 # 👩‍💻 Anshu Singhal  
 ### Marketing | Data Analytics | Business Strategy  
 
-I have done my  PGDM candidate at SOIL School of Business Design with a strong interest in marketing, data analytics, and business strategy. I have completed Data Analytics training from Skillovilla, where I developed hands-on expertise in Excel, SQL, and data analysis through multiple projects involving data cleaning, visualization, and insight generation.  
+##🚀 About Me
+🎓 PGDM Candidate at SOIL School of Business Design
+📊 Strong interest in Marketing, Data Analytics & Business Strategy
+📚 Completed Data Analytics Training from Skillovilla
 
-I bring practical industry experience from my role at Bombay Shaving Company, where I worked on brand marketing, campaign execution, and day-to-day brand operations. My role involved coordinating cross-functional teams, supporting co-marketing initiatives, managing content, and tracking campaign performance to understand what drives engagement and conversions. Prior to this, I interned at Mayora India Pvt. Ltd., gaining exposure to sales and marketing, market research, and consumer behavior.  
+##💻 Skills & Expertise
+📈 Data Analysis: Excel, SQL
+🧹 Data Cleaning & Transformation
+📊 Data Visualization & Insight Generation
+📢 Digital Marketing & Campaign Optimization
+🤝 Influencer Marketing & Content Strategy
+📉 Performance Tracking & Analytics
 
-I have also worked on digital marketing campaigns, influencer marketing strategies, and performance analysis, helping optimize content and improve campaign effectiveness. I enjoy working at the intersection of data and creativity—using insights to build strategies that drive growth and business impact. Currently, I’m strengthening my skills in SQL, business analytics, and data-driven decision-making, aiming to transition into roles like Business Analyst and data-driven marketing professional.
+##💼 Work Experience
+
+#🪒 Bombay Shaving Company
+
+Worked on brand marketing & campaign execution
+Coordinated with cross-functional teams
+Supported co-marketing initiatives
+Managed content & day-to-day brand operations
+Tracked campaign performance to analyze engagement & conversions
+
+#🍪 Mayora India Pvt. Ltd. (Internship)
+
+Gained exposure to sales & marketing strategies
+Conducted market research & consumer behavior analysis
+
+##📊 Projects & Experience
+Hands-on projects in data analytics
+Worked on data cleaning, visualization, and insight generation
+Implemented digital marketing campaigns
+Optimized content using performance insights
+
+##🎯 Career Goals
+Transition into Business Analyst / Data-driven Marketing roles
+Passionate about combining data + creativity to drive growth
+Currently enhancing skills in SQL & Business Analytics

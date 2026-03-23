@@ -16,7 +16,7 @@
 
 ## 💼 Work Experience
 
-#🪒 Bombay Shaving Company
+# 🪒 Bombay Shaving Company
 
 Worked on brand marketing & campaign execution
 Coordinated with cross-functional teams

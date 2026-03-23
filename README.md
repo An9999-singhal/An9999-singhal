@@ -1,7 +1,7 @@
 # 👩‍💻 Anshu Singhal  
 ### Marketing | Data Analytics | Business Strategy  
 
-##🚀 About Me
+## 🚀 About Me 
 🎓 PGDM Candidate at SOIL School of Business Design
 📊 Strong interest in Marketing, Data Analytics & Business Strategy
 📚 Completed Data Analytics Training from Skillovilla
